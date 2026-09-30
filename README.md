@@ -1,2 +1,2 @@
 # safeconnect-preview
-SafeConnect Preview For Developer Testing. It Is Not Working You Can't Use It.
+SafeConnect Preview For Developer Testing. It Is Not Working You Can't Use It. Developers Only Page
